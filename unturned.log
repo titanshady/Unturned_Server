@@ -1,0 +1,127 @@
+Initialize engine version: 5.5.3p1 (b27954c0d351)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Pathfinding.ClipperLib.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Pathfinding.ClipperLib.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Pathfinding.Poly2Tri.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Pathfinding.Poly2Tri.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.CrashLog.dll (this message is harmless)
+Loading D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\UnityEngine.CrashLog.dll into Unity Child Domain
+- Completed reload, in  0.559 seconds
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\System.Xml.dll (this message is harmless)
+UnloadTime: 0.984426 ms
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\System.Data.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Framework\Framework.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Unturned\Unturned.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Rocket.Unturned\Rocket.API.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Rocket.Unturned\Rocket.Core.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Rocket.Unturned\Rocket.Unturned.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Framework\Framework.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Framework\Framework.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Unturned\Unturned.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Unturned\Unturned.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Rocket.Unturned\Rocket.API.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Rocket.Unturned\Rocket.API.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Rocket.Unturned\Rocket.Core.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Rocket.Unturned\Rocket.Core.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Rocket.Unturned\Rocket.Unturned.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Modules\Rocket.Unturned\Rocket.Unturned.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1851.
+Total: 2.649847 ms (FindLiveObjects: 0.095821 ms CreateObjectMapping: 0.069304 ms MarkObjects: 2.472367 ms  DeleteObjects: 0.008437 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 2543 unused Assets to reduce memory usage. Loaded Objects now: 71997.
+Total: 53.262409 ms (FindLiveObjects: 3.920532 ms CreateObjectMapping: 11.168590 ms MarkObjects: 35.999836 ms  DeleteObjects: 2.171946 ms)
+
+Platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Unturned_Data\Managed\System.Configuration.dll (this message is harmless)
+Fallback handler could not load library D:/Documents/Arma_3_Server/Unturned_Server/game/Unturned_Data/Mono/libc
+Fallback handler could not load library D:/Documents/Arma_3_Server/Unturned_Server/game/Unturned_Data/Mono/.\libc
+Fallback handler could not load library D:/Documents/Arma_3_Server/Unturned_Server/game/Unturned_Data/Mono/libc
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Servers\[BR] ArenA Server\Rocket\Plugins\RocketMod_TPA.dll (this message is harmless)
+Non platform assembly: D:\Documents\Arma_3_Server\Unturned_Server\game\Servers\[BR] ArenA Server\Rocket\Plugins\RocketMod_TPA.dll (this message is harmless)
+Survival
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 3.389598 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 72075.
+Total: 230.529770 ms (FindLiveObjects: 3.953979 ms CreateObjectMapping: 10.919394 ms MarkObjects: 215.427994 ms  DeleteObjects: 0.226897 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72075.
+Total: 228.358124 ms (FindLiveObjects: 4.217035 ms CreateObjectMapping: 10.435769 ms MarkObjects: 213.444687 ms  DeleteObjects: 0.258837 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/359/Nav"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/359/Nav"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/626/Nav"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/623/Nav"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/624/Nav"
+ 
+(Filename:  Line: 0)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 264563.
+Total: 336.295837 ms (FindLiveObjects: 17.459944 ms CreateObjectMapping: 14.005258 ms MarkObjects: 272.842041 ms  DeleteObjects: 31.987394 ms)
+
+UnloadTime: 3669.970947 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1104 -> priority: 1 
+
+[unloading] RocketMod_TPA

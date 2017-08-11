@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="help_line_1" Value="/tpa (playerName) - Sends a teleport request." />
+  <Translation Id="help_line_2" Value="/tpa accept - Accepts your latest TPA request." />
+  <Translation Id="help_line_3" Value="/tpa deny - Denys your latest TPA request." />
+  <Translation Id="help_line_4" Value="/tpa abort - Abort your pending request." />
+  <Translation Id="playerNotFound" Value="Could not find that player!" />
+  <Translation Id="playerInCar" Value="Teleport failed, the player is in a car." />
+  <Translation Id="YouInCar" Value="Teleport failed, you can't teleport in a car." />
+  <Translation Id="TimeLeft" Value="Time left for another request: {0}" />
+  <Translation Id="Delay" Value="Your teleport will initiate in {0} {1}." />
+  <Translation Id="Seconds" Value="seconds" />
+  <Translation Id="nopermission_send" Value="You do not have permission to send TPA requests." />
+  <Translation Id="nopermission_accept" Value="You do not have permission to accept TPA requests." />
+  <Translation Id="error_cooldown" Value="You may only send requests every {0} seconds." />
+  <Translation Id="error_bleeding" Value="You may not teleport when bleeding, resend TPA when you're safe." />
+  <Translation Id="error_hurt" Value="You may not teleport when you're hurt!" />
+  <Translation Id="help_line_1" Value="TPA allows you to request a teleport to another player." />
+  <Translation Id="request_success" Value="Your teleportation has been successful!" />
+  <Translation Id="request_accepted" Value="You've accepted {0} TPA request!" />
+  <Translation Id="request_denied" Value="You've denied {0}'s request!" />
+  <Translation Id="request_accepted_1" Value="{0} accepted your tpa request!" />
+  <Translation Id="request_accepted_2" Value="{0} accepted your tpa request and will teleport in {1} {2}." />
+  <Translation Id="request_accepted_3" Value="You've accepted {0}'s tpa request and they will teleport in {1} {2}." />
+  <Translation Id="request_denied_1" Value="{0} denied your tpa request!" />
+  <Translation Id="request_sent" Value="You have sent a tpa request to {0}" />
+  <Translation Id="request_sent_1" Value="{0} sent you a tpa request, do /tpa accept to accept!" />
+  <Translation Id="request_pending" Value="You already have a request pending to this player." />
+  <Translation Id="request_none" Value="You have no requests available!" />
+  <Translation Id="request_abort" Value="You have aborted your TPA request." />
+  <Translation Id="translation_version_dont_edit" Value="3" />
+</Translations>

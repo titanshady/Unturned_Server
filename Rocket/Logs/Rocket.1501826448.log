@@ -1,0 +1,122 @@
+[8/4/2017 2:58:29 AM] [Info] [registered] /admins (Rocket.Unturned.Commands.UnturnedCommands/admins)
+[8/4/2017 2:58:29 AM] [Info] [registered] /airdrop (Rocket.Unturned.Commands.UnturnedCommands/airdrop)
+[8/4/2017 2:58:29 AM] [Info] [registered] /ban (Rocket.Unturned.Commands.UnturnedCommands/ban)
+[8/4/2017 2:58:29 AM] [Info] [registered] /bans (Rocket.Unturned.Commands.UnturnedCommands/bans)
+[8/4/2017 2:58:29 AM] [Info] [registered] /bind (Rocket.Unturned.Commands.UnturnedCommands/bind)
+[8/4/2017 2:58:29 AM] [Info] [registered] /chatrate (Rocket.Unturned.Commands.UnturnedCommands/chatrate)
+[8/4/2017 2:58:29 AM] [Info] [registered] /cheats (Rocket.Unturned.Commands.UnturnedCommands/cheats)
+[8/4/2017 2:58:29 AM] [Info] [registered] /cycle (Rocket.Unturned.Commands.UnturnedCommands/cycle)
+[8/4/2017 2:58:29 AM] [Info] [registered] /day (Rocket.Unturned.Commands.UnturnedCommands/day)
+[8/4/2017 2:58:29 AM] [Info] [registered] /debug (Rocket.Unturned.Commands.UnturnedCommands/debug)
+[8/4/2017 2:58:29 AM] [Info] [registered] /experience (Rocket.Unturned.Commands.UnturnedCommands/experience)
+[8/4/2017 2:58:29 AM] [Info] [registered] /filter (Rocket.Unturned.Commands.UnturnedCommands/filter)
+[8/4/2017 2:58:29 AM] [Info] [registered] /flag (Rocket.Unturned.Commands.UnturnedCommands/flag)
+[8/4/2017 2:58:29 AM] [Info] [registered] /gamemode (Rocket.Unturned.Commands.UnturnedCommands/gamemode)
+[8/4/2017 2:58:29 AM] [Info] [registered] /give (Rocket.Unturned.Commands.UnturnedCommands/give)
+[8/4/2017 2:58:29 AM] [Info] [registered] /gold (Rocket.Unturned.Commands.UnturnedCommands/gold)
+[8/4/2017 2:58:29 AM] [Info] [registered] /hide_admins (Rocket.Unturned.Commands.UnturnedCommands/hide_admins)
+[8/4/2017 2:58:29 AM] [Info] [registered] /kick (Rocket.Unturned.Commands.UnturnedCommands/kick)
+[8/4/2017 2:58:29 AM] [Info] [registered] /kill (Rocket.Unturned.Commands.UnturnedCommands/kill)
+[8/4/2017 2:58:29 AM] [Info] [registered] /loadout (Rocket.Unturned.Commands.UnturnedCommands/loadout)
+[8/4/2017 2:58:29 AM] [Info] [registered] /log (Rocket.Unturned.Commands.UnturnedCommands/log)
+[8/4/2017 2:58:29 AM] [Info] [registered] /map (Rocket.Unturned.Commands.UnturnedCommands/map)
+[8/4/2017 2:58:29 AM] [Info] [registered] /maxplayers (Rocket.Unturned.Commands.UnturnedCommands/maxplayers)
+[8/4/2017 2:58:29 AM] [Info] [registered] /mode (Rocket.Unturned.Commands.UnturnedCommands/mode)
+[8/4/2017 2:58:29 AM] [Info] [registered] /modules (Rocket.Unturned.Commands.UnturnedCommands/modules)
+[8/4/2017 2:58:29 AM] [Info] [registered] /name (Rocket.Unturned.Commands.UnturnedCommands/name)
+[8/4/2017 2:58:29 AM] [Info] [registered] /night (Rocket.Unturned.Commands.UnturnedCommands/night)
+[8/4/2017 2:58:29 AM] [Info] [registered] /owner (Rocket.Unturned.Commands.UnturnedCommands/owner)
+[8/4/2017 2:58:29 AM] [Info] [registered] /password (Rocket.Unturned.Commands.UnturnedCommands/password)
+[8/4/2017 2:58:29 AM] [Info] [registered] /permit (Rocket.Unturned.Commands.UnturnedCommands/permit)
+[8/4/2017 2:58:29 AM] [Info] [registered] /permits (Rocket.Unturned.Commands.UnturnedCommands/permits)
+[8/4/2017 2:58:29 AM] [Info] [registered] /perspective (Rocket.Unturned.Commands.UnturnedCommands/perspective)
+[8/4/2017 2:58:29 AM] [Info] [registered] /players (Rocket.Unturned.Commands.UnturnedCommands/players)
+[8/4/2017 2:58:29 AM] [Info] [registered] /port (Rocket.Unturned.Commands.UnturnedCommands/port)
+[8/4/2017 2:58:29 AM] [Info] [registered] /pve (Rocket.Unturned.Commands.UnturnedCommands/pve)
+[8/4/2017 2:58:29 AM] [Info] [registered] /quest (Rocket.Unturned.Commands.UnturnedCommands/quest)
+[8/4/2017 2:58:29 AM] [Info] [registered] /queue_size (Rocket.Unturned.Commands.UnturnedCommands/queue_size)
+[8/4/2017 2:58:29 AM] [Info] [registered] /reputation (Rocket.Unturned.Commands.UnturnedCommands/reputation)
+[8/4/2017 2:58:29 AM] [Info] [registered] /resetconfig (Rocket.Unturned.Commands.UnturnedCommands/resetconfig)
+[8/4/2017 2:58:29 AM] [Info] [registered] /save (Rocket.Unturned.Commands.UnturnedCommands/save)
+[8/4/2017 2:58:29 AM] [Info] [registered] /say (Rocket.Unturned.Commands.UnturnedCommands/say)
+[8/4/2017 2:58:29 AM] [Info] [registered] /shutdown (Rocket.Unturned.Commands.UnturnedCommands/shutdown)
+[8/4/2017 2:58:29 AM] [Info] [registered] /slay (Rocket.Unturned.Commands.UnturnedCommands/slay)
+[8/4/2017 2:58:29 AM] [Info] [registered] /spy (Rocket.Unturned.Commands.UnturnedCommands/spy)
+[8/4/2017 2:58:29 AM] [Info] [registered] /sync (Rocket.Unturned.Commands.UnturnedCommands/sync)
+[8/4/2017 2:58:30 AM] [Info] [registered] /teleport (Rocket.Unturned.Commands.UnturnedCommands/teleport)
+[8/4/2017 2:58:30 AM] [Info] [registered] /time (Rocket.Unturned.Commands.UnturnedCommands/time)
+[8/4/2017 2:58:30 AM] [Info] [registered] /timeout (Rocket.Unturned.Commands.UnturnedCommands/timeout)
+[8/4/2017 2:58:30 AM] [Info] [registered] /unban (Rocket.Unturned.Commands.UnturnedCommands/unban)
+[8/4/2017 2:58:30 AM] [Info] [registered] /unpermit (Rocket.Unturned.Commands.UnturnedCommands/unpermit)
+[8/4/2017 2:58:30 AM] [Info] [registered] /vehicle (Rocket.Unturned.Commands.UnturnedCommands/vehicle)
+[8/4/2017 2:58:30 AM] [Info] [registered] /votify (Rocket.Unturned.Commands.UnturnedCommands/votify)
+[8/4/2017 2:58:30 AM] [Info] [registered] /weather (Rocket.Unturned.Commands.UnturnedCommands/weather)
+[8/4/2017 2:58:30 AM] [Info] [registered] /welcome (Rocket.Unturned.Commands.UnturnedCommands/welcome)
+[8/4/2017 2:58:30 AM] [Info] [registered] /whitelisted (Rocket.Unturned.Commands.UnturnedCommands/whitelisted)
+[8/4/2017 2:58:30 AM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[8/4/2017 2:58:30 AM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[8/4/2017 2:58:30 AM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[8/4/2017 2:58:30 AM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[8/4/2017 2:58:30 AM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[8/4/2017 2:58:30 AM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[8/4/2017 2:58:30 AM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[8/4/2017 2:58:30 AM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[8/4/2017 2:58:30 AM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[8/4/2017 2:58:30 AM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[8/4/2017 2:58:30 AM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[8/4/2017 2:58:30 AM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[8/4/2017 2:58:30 AM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[8/4/2017 2:58:30 AM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[8/4/2017 2:58:30 AM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[8/4/2017 2:58:30 AM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[8/4/2017 2:58:30 AM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[8/4/2017 2:58:30 AM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[8/4/2017 2:58:30 AM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[8/4/2017 2:58:30 AM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[8/4/2017 2:58:30 AM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[8/4/2017 2:58:30 AM] [Info] Loading RocketMod_TPA from D:\Documents\Arma_3_Server\Unturned_Server\game\Servers\[BR] ArenA Server\Rocket\Plugins\RocketMod_TPA.dll
+[8/4/2017 2:58:30 AM] [Info] 
+[loading] RocketMod_TPA
+[8/4/2017 2:58:30 AM] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[8/4/2017 2:58:30 AM] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[8/4/2017 2:58:30 AM] [Warning] ...
+[8/4/2017 2:58:30 AM] [Warning] Current configuration:
+[8/4/2017 2:58:30 AM] [Warning] ...
+[8/4/2017 2:58:30 AM] [Warning] Cooldown TPA requests: disabled, Seconds: 20
+[8/4/2017 2:58:30 AM] [Warning] Delay teleporting: disabled, Seconds: 10
+[8/4/2017 2:58:30 AM] [Warning] Cancel teleport if bleeding: disabled
+[8/4/2017 2:58:30 AM] [Warning] NinjaTP: disabled, EffectID: 45
+[8/4/2017 2:58:30 AM] [Warning] [Delay] Cancel teleport if hurt: disabled
+[8/4/2017 2:58:30 AM] [Warning] ...
+[8/4/2017 2:58:30 AM] [Warning] Checking for problems:
+[8/4/2017 2:58:30 AM] [Warning] No errors have been found!
+[8/4/2017 2:58:30 AM] [Warning] ...
+[8/4/2017 2:58:30 AM] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[8/4/2017 2:58:30 AM] [Info] This server will automatically save every 1800 seconds
+[8/4/2017 2:58:31 AM] [Info] Steam servers ready!
+[8/4/2017 2:58:31 AM] [Info] Workshop install folder: D:\Documents\Arma_3_Server\Unturned_Server\game/Servers/[BR] ArenA Server/Workshop/Steam
+[8/4/2017 2:58:31 AM] [Info] Downloading 0 workshop items...
+[8/4/2017 2:58:31 AM] [Info] General: Survival
+[8/4/2017 2:58:32 AM] [Info] Loading level: 8%
+[8/4/2017 2:58:34 AM] [Info] Loading level: 16%
+[8/4/2017 2:58:34 AM] [Info] Loading level: 25%
+[8/4/2017 2:58:34 AM] [Info] Loading level: 33%
+[8/4/2017 2:58:34 AM] [Info] Loading level: 41%
+[8/4/2017 2:58:34 AM] [Info] Loading level: 50%
+[8/4/2017 2:58:34 AM] [Info] Loading level: 58%
+[8/4/2017 2:58:34 AM] [Info] Loading level: 66%
+[8/4/2017 2:58:35 AM] [Info] Loading level: 75%
+[8/4/2017 2:58:35 AM] [Info] Loading level: 83%
+[8/4/2017 2:58:35 AM] [Info] Loading level: 91%
+[8/4/2017 2:58:35 AM] [Info] Loading level: 100%
+[8/4/2017 2:59:02 AM] [Info] Connecting: PlayerID: 76561198084061499 Name: [S.O.H] - Titan Character: [S.O.H] - Titan
+[8/4/2017 2:59:32 AM] [Info] Disconnecting: PlayerID: 76561198084061499 Name: [S.O.H] - Titan Character: [S.O.H] - Titan
+[8/4/2017 3:00:02 AM] [Info] Broadcast: The Server will shutdown in 30 seconds. Search a safe place to stay!
+[8/4/2017 3:00:02 AM] [Error] Succesfully set shutdown delay!
+[8/4/2017 3:00:03 AM] [Error] Succesfully set shutdown delay!
+[8/4/2017 3:00:04 AM] [Info] Broadcast: The Server will shutdown in 30 seconds. Search a safe place to stay!
+[8/4/2017 3:00:13 AM] [Info] Broadcast: The Server will shutdown in 20 seconds. Search a safe place to stay!
+[8/4/2017 3:00:23 AM] [Info] Broadcast: The Server will shutdown in 10 seconds. Search a safe place to stay!
+[8/4/2017 3:00:33 AM] [Info] Broadcast: The Server will shutdown in 0 seconds. Search a safe place to stay!
+[8/4/2017 3:00:37 AM] [Info] 
+[unloading] RocketMod_TPA
